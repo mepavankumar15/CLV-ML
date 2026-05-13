@@ -1,0 +1,15 @@
+streamlit
+scikit-learn
+xgboost
+shap
+pandas
+numpy
+plotly
+joblib
+jupyter
+seaborn
+matplotlib
+openpyxl
+requests
+jinja2
+xarray==2024.2.0
